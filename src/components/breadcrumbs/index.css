@@ -1,0 +1,14 @@
+.nav {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    list-style-type: none;
+}
+.navli {
+    text-decoration: none;
+}
+.navli a{
+    text-decoration: none;
+    color: rgb(56, 65, 81);
+    font-size: 36px;
+}

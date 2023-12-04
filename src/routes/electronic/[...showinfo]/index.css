@@ -1,0 +1,25 @@
+.showinfo{
+    width: 85%;
+    /* height: 20px; */
+    margin: auto;
+    background-color: rgb(244, 244, 245);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 300px;
+    margin-top: 70px;
+
+}
+
+.showImg{
+    flex: 2;
+}
+.showin{
+    flex: 8;
+    text-align: center;
+}
+.info{
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start ;
+}

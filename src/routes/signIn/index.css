@@ -1,0 +1,22 @@
+.login{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.title{
+    text-align: center;
+    margin: 20px 0px;
+    font-size: 30px;
+}
+.loginform{
+    width: 200px;
+    margin-bottom: 20px;
+}
+.submit{
+    margin: auto;
+    width: 50px;
+
+}

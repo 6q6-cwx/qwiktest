@@ -1,0 +1,22 @@
+.top{
+    margin-top: 20px;
+    height: 500px;
+    background-image: url('../../public/img/flo.jpeg');
+    background-repeat: no-repeat;
+    background-position: bottom;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-size: 65px;
+}
+
+.bottom{
+    margin-top: 20px;
+}
+
+.bottomImg{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
